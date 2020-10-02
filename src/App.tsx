@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import { Edit } from "./Edit";
+import { Edit } from "./pages/Edit";
 
 function App() {
   return (
